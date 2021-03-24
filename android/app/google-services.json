@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "85166340883",
+    "firebase_url": "https://ttgt-d9edb.firebaseio.com",
+    "project_id": "ttgt-d9edb",
+    "storage_bucket": "ttgt-d9edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85166340883:android:fac9284354cec5fa5bf8e6",
+        "android_client_info": {
+          "package_name": "com.ttgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85166340883-omfhj238hi8ffvsj9adjv90shi5ml0ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2lt3a0XYPbDjrLQ67FAG8OfeVaaKkb94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85166340883-omfhj238hi8ffvsj9adjv90shi5ml0ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
