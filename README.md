@@ -6,5 +6,5 @@
 - </br>
 ![Login](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/flow.PNG?raw=true)
 - Một số hình ảnh của App </br>
-- ![Login](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/B%C6%B0%E1%BB%9Bc%201_%20th%C3%AAm%20h%C3%ACnh%20%E1%BA%A3nh.png =446x1028)![](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/Ch%E1%BB%8Dn%20v%E1%BB%8B%20tr%C3%AD%20tr%C3%AAn%20b%E1%BA%A3n%20%C4%91%E1%BB%93.png) ![](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/Danh%20s%C3%A1ch%20ch%C6%B0a%20duy%E1%BB%87t.png)
+- <img src="https://github.com/ntdat97/RestaurantOrder/blob/master/pic/B%C6%B0%E1%BB%9Bc%201_%20th%C3%AAm%20h%C3%ACnh%20%E1%BA%A3nh.png" width="100" height="100"> ![](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/Ch%E1%BB%8Dn%20v%E1%BB%8B%20tr%C3%AD%20tr%C3%AAn%20b%E1%BA%A3n%20%C4%91%E1%BB%93.png) ![](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/Danh%20s%C3%A1ch%20ch%C6%B0a%20duy%E1%BB%87t.png)
 - 
