@@ -3,4 +3,5 @@
 - Clone chức năng phản ánh theo App TTGT của thành phố HCM, tự thiết kế phần admin duyệt bài 
 - Sử dụng thư viện React Native, cơ sở dữ liệu FireStore Firebase, Firebase Auth
 - Sơ đồ màn hình
+- </br>
 ![Login](https://github.com/ntdat97/RestaurantOrder/blob/master/pic/flow.PNG?raw=true)
